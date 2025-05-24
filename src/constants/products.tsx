@@ -5,7 +5,7 @@ import sensai from "public/images/sensai.png";
 
 export const products = [
   {
-    href: "http://3.109.55.105",
+    href: "https://dev-tinder-web-five.vercel.app/",
     title: "DevTinder",
     description: "A dating app that helps you find your perfect match.",
     thumbnail: devtinder,
